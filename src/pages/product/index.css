@@ -1,0 +1,18 @@
+.FilterAndSortBy {
+  display: flex;
+  flex-direction: row;
+}
+.Filter {
+  flex: 1;
+}
+.SortBy {
+    flex: 1;
+}
+.FilterByName {
+  width: 300px;
+}
+
+
+Button{
+    white-space: nowrap;
+}

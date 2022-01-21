@@ -1,0 +1,23 @@
+.card{
+    position: relative;
+}
+.item-percent{
+    position: absolute;
+    top:2px;
+    left: 0;
+    width: 90px;
+    height: 30px;
+    border: 1px solid rgb(148, 10, 10);
+    font-style: italic;
+    background-color: rgb(119, 25, 25);
+    color: whitesmoke;
+    border-radius: 0 30% 30% 0;
+}
+.card .img-product{
+    height: 220px;
+    width: 220px;
+}
+.card .img{
+    background-size:cover ;
+    width: fit-content;
+}
